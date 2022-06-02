@@ -1,5 +1,3 @@
-## Hey Guys👋,,,
-
 <div align="right">
    
 ![](https://visitor-badge.glitch.me/badge?page_id=ThusharaSamaraweera.ThusharaSamaraweera)
