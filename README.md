@@ -25,7 +25,7 @@
 <p>
 
 ## 😎 Something Cool About Me :
-- ### 👨🏽‍💻 I’m currently working on full stack web developer.
+- ### 👨🏽‍💻 I’m currently working as a full stack web developer.
 - ### 🌱 I’m currently learning APIs and Testing . 😉
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
