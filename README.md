@@ -1,11 +1,11 @@
 # Thushara Samaraweera
 
-**Software Engineer | Backend, Distributed Systems, Cloud, and Applied AI**
+**Software Engineer | Full-Stack, Cloud, Distributed Systems, and Applied AI**
 
-Full-stack Software Engineer with 4+ years of experience building backend services, distributed systems, cloud infrastructure, and full-stack applications. My strongest focus is designing scalable, maintainable systems on AWS; I also build AI-powered application features using LLM integrations, RAG, and agentic workflows.
+Full-stack Software Engineer with 4+ years of experience building web applications, backend services, distributed systems, and cloud infrastructure. I design scalable, maintainable products across the frontend, API, data, and cloud layers, and build AI-powered features using LLM integrations, RAG, and agentic workflows.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+Cloud+%7C+Distributed+Systems+%7C+Applied+AI" alt="Backend engineering, cloud, distributed systems, and applied AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Full-Stack+Engineering+%7C+Cloud+%7C+Distributed+Systems+%7C+Applied+AI" alt="Full-stack engineering, cloud, distributed systems, and applied AI" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Full-stack Software Engineer with 4+ years of experience building backend servic
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Engineering-2F81F7?style=flat-square" alt="Backend engineering" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineering-2F81F7?style=flat-square" alt="Full-stack engineering" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Systems-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS cloud systems" />
   <img src="https://img.shields.io/badge/Distributed-Systems-6F42C1?style=flat-square" alt="Distributed systems" />
   <img src="https://img.shields.io/badge/Applied-AI-10A37F?style=flat-square" alt="Applied AI" />
@@ -27,21 +27,22 @@ Full-stack Software Engineer with 4+ years of experience building backend servic
 
 ## What I Work On
 
+- Full-stack product development across React, Next.js, Angular, APIs, data, and cloud infrastructure
 - Backend APIs and service architecture with Node.js, TypeScript, NestJS, Express, and Python
 - Distributed systems, asynchronous processing, service boundaries, and reliable event-driven workflows
 - Cloud-native and serverless systems on AWS, including containerized services, event-driven workflows, and infrastructure as code
-- Full-stack product development where a dependable backend and practical frontend meet
 - Applied AI capabilities: LLM integrations, retrieval-augmented generation, vector search, and agentic application workflows
 
 ## Core Stack 🧰
 
 | Area | Technologies |
 | --- | --- |
-| **Backend** | Node.js, TypeScript, NestJS, Express, Python, Java |
+| **Languages** | TypeScript, JavaScript, Python, Java |
+| **Backend** | Node.js, NestJS, Express, FastAPI |
 | **Cloud & Infrastructure** | AWS Lambda, API Gateway, ECS/Fargate, ECR, S3, SQS, SNS, IAM, CloudWatch, CloudFormation |
-| **Data** | PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, vector databases |
 | **Frontend** | React, Next.js, Angular |
 | **AI Engineering** | OpenAI APIs, LLM integrations, RAG, LangChain, LangGraph, AI agents, AWS AI services |
+| **Data** | PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, vector databases |
 | **Engineering & DevOps** | Docker, GitHub Actions, GitLab CI/CD, CI/CD, infrastructure as code, Jest, unit/integration/E2E testing |
 
 ## Technical Writing ✍️
